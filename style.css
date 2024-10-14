@@ -225,13 +225,10 @@ ul li i {
         /* Adjust font size for smaller screens */
     }
 
-    ul li {
-        font-size: 14px;
-        /* Smaller font for list items */
-    }
+  
 
     .social-icons a i {
-        font-size: 30px !important; /* Ensure social icons are large on smaller screens */
+        font-size: 40px !important; /* Ensure social icons are large on smaller screens */
     }
 
     .social-icons {
