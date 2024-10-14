@@ -210,9 +210,9 @@ ul li i {
     }
 
     .profile-image img {
-        width: 80px;
+        width: 100px;
         /* Adjust image size for smaller screens */
-        height: 80px;
+        height: 100px;
         /* Adjust image size for smaller screens */
     }
 
