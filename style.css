@@ -197,6 +197,7 @@ ul li i {
     .left-side {
         background-color: #fff;
         width: 100% !important;
+        padding-top: 40px !important;
 
     }
 
@@ -228,7 +229,7 @@ ul li i {
   
 
     .social-icons a i {
-        font-size: 30px !important; /* Ensure social icons are large on smaller screens */
+        font-size: 40px !important; /* Ensure social icons are large on smaller screens */
     }
 
     .social-icons {
